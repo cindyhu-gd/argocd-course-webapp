@@ -1,1 +1,1 @@
-ArgoCD demon
+ArgoCD demo
